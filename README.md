@@ -128,16 +128,8 @@ The system evaluates models using multiple metrics:
 - Recall
 - ROC-AUC
 
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Authors
-[Your Name]
-
 ## Acknowledgments
-- Restaurant industry survey participants
-- Open-source ML community
-- GPU computing resources providers
+- Dr. Yuqi Song 
